@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 150" width="340" height="150">
+  <rect x=".5" y=".5" width="339" height="149" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="22" y="34" font-size="16" font-weight="700" fill="#E8491D">Lenguajes que más uso</text>
+    <clipPath id="bar"><rect x="22" y="50" width="296" height="9" rx="4.5"/></clipPath>
+    <g clip-path="url(#bar)">
+      <rect x="22" y="50" width="170.2" height="9" fill="#f1e05a"/>
+      <rect x="192.2" y="50" width="123.1" height="9" fill="#2ea043"/>
+      <rect x="315.3" y="50" width="1.8" height="9" fill="#8a63d2"/>
+      <rect x="317.1" y="50" width="0.9" height="9" fill="#5391fe"/>
+    </g>
+    <g font-size="13" fill="#e6edf3">
+      <circle cx="28" cy="85" r="5" fill="#f1e05a"/><text x="40" y="90">JavaScript <tspan fill="#8b949e">57,5 %</tspan></text>
+      <circle cx="188" cy="85" r="5" fill="#2ea043"/><text x="200" y="90">C# <tspan fill="#8b949e">41,6 %</tspan></text>
+      <circle cx="28" cy="115" r="5" fill="#8a63d2"/><text x="40" y="120">CSS <tspan fill="#8b949e">0,6 %</tspan></text>
+      <circle cx="188" cy="115" r="5" fill="#5391fe"/><text x="200" y="120">PowerShell <tspan fill="#8b949e">0,3 %</tspan></text>
+    </g>
+  </g>
+</svg>
