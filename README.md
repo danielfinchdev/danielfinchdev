@@ -31,3 +31,9 @@
 ###
 
 <h3 align="center">Y además, ¡es OpenSource!</h3>
+
+<p align="center">Si alguna de mis herramientas te ahorra tiempo, puedes invitarme a un café ☕</p>
+
+<div align="center">
+  <a href="https://paypal.me/DanielFinch"><img src="https://img.shields.io/badge/Inv%C3%ADtame_a_un_caf%C3%A9-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Invítame a un café con PayPal" /></a>
+</div>
