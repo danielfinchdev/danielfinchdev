@@ -45,14 +45,14 @@
       <p><b>Novedades de la 3.0:</b> en cualquier borde y pantalla (o donde lo sueltes), encuentra solas todas tus cuentas de IA en cualquier disco, fecha de renovación de tu suscripción, botón para abrir cada IA, ajustes renovados y arranque más seguro.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/danielfinchdev/orb-dev"><img src="assets/orb-dev.png" alt="Orb.dev" /></a>
+      <a href="https://github.com/danielfinchdev/orb-dev"><img src="assets/orb.png" alt="Orb" /></a>
       <h4><a href="https://github.com/danielfinchdev/orb-dev">Orb.dev</a></h4>
-      <p>Tu jefe de proyecto de agentes de IA: le cuentas qué quieres, reparte el trabajo entre Claude Code, Codex, Cursor, Gemini CLI y más, lo revisa y te pide el OK.</p>
+      <p>Coordina tus agentes de IA desde un solo chat: reparte el trabajo entre Claude Code, Codex, Cursor y otros, elige el modelo adecuado para cada tarea y revisa el resultado antes de entregártelo.</p>
       <p>
         <a href="https://github.com/danielfinchdev/orb-dev/releases/latest"><img src="https://img.shields.io/github/v/release/danielfinchdev/orb-dev?label=%C3%BAltima%20versi%C3%B3n&color=2ea44f" alt="Última versión" /></a>
         <img src="https://img.shields.io/badge/Electron-JavaScript-47848F" alt="Electron y JavaScript" />
       </p>
-      <p><b>Novedades de la 2.3:</b> agentes en directo, Gemini CLI, OpenCode, Qwen y Copilot, delegación entre agentes, revisión con otro modelo, tareas programadas e instalador.</p>
+      <p><b>Novedades de la 3.0:</b> chat unificado, tareas en paralelo con el modelo que elijas, Security Review, modelos propios de cada cuenta y más rendimiento.</p>
     </td>
   </tr>
 </table>
@@ -62,6 +62,8 @@
 
 | Fecha | Proyecto | Versión | Lo más destacado |
 | --- | --- | --- | --- |
+| 11 oct 2026 | Orb.dev | [3.0.0](https://github.com/danielfinchdev/orb-dev/releases/tag/v3.0.0) | Chat unificado, tareas en paralelo, Security Review y modelos por cuenta |
+| 11 oct 2026 | Orb.dev | [2.7.0](https://github.com/danielfinchdev/orb-dev/releases/tag/v2.7.0) | Pizarra, Monitoreo del equipo, versión móvil y elección automática del modelo |
 | 11 oct 2026 | Open Control Edge | [3.0.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v3.0.0) | Cualquier borde y pantalla, todas tus cuentas solas, suscripción y arranque más seguro |
 | 11 oct 2026 | Open Control Edge | [2.3.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v2.3.0) | Conexión con Orb |
 | 9 oct 2026 | Orb.dev | [2.3.1](https://github.com/danielfinchdev/orb-dev/releases/tag/v2.3.1) | Proyectos por categoría, Android listo con adb e instalador |
@@ -71,7 +73,6 @@
 | 3 oct 2026 | Open Control Edge | [2.1.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v2.1.0) | Política de firma de código (SignPath) |
 | 29 sep 2026 | Open Control Edge | [2.0.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v2.0.0) | Nuevo nombre (antes EdgeWidget), anillos de uso por IA y temperaturas |
 
-<p align="center"><img src="assets/orb-dev-tareas.png" width="70%" alt="Orb.dev en modo oscuro: una tarea esperando tu aprobación" /></p>
 </details>
 
 ###
