@@ -37,12 +37,12 @@
     <td width="50%" valign="top">
       <a href="https://github.com/danielfinchdev/open-control-edge"><img src="assets/open-control-edge.png" alt="Open Control Edge" /></a>
       <h4><a href="https://github.com/danielfinchdev/open-control-edge">Open Control Edge</a></h4>
-      <p>Widget pegado al borde de la pantalla de Windows 11: cuánto te queda de Claude, Codex o Cursor y a qué temperatura va tu PC, sin abrir nada.</p>
+      <p>Widget pegado al borde de la pantalla de Windows: cuánto te queda de Claude, Codex o Cursor (de todas tus cuentas), a qué temperatura va tu PC y los FPS del juego, sin abrir nada.</p>
       <p>
         <a href="https://github.com/danielfinchdev/open-control-edge/releases/latest"><img src="https://img.shields.io/github/v/release/danielfinchdev/open-control-edge?label=%C3%BAltima%20versi%C3%B3n&color=2ea44f" alt="Última versión" /></a>
         <img src="https://img.shields.io/badge/C%23-.NET%2010-512BD4" alt="C# y .NET 10" />
       </p>
-      <p><b>Novedades de la 2.2:</b> vistas de IA y de PC, FPS del juego, modo juego, varias cuentas por IA y actualización automática.</p>
+      <p><b>Novedades de la 3.0:</b> en cualquier borde y pantalla (o donde lo sueltes), encuentra solas todas tus cuentas de IA en cualquier disco, fecha de renovación de tu suscripción, botón para abrir cada IA, ajustes renovados y arranque más seguro.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/danielfinchdev/orb-dev"><img src="assets/orb-dev.png" alt="Orb.dev" /></a>
@@ -62,6 +62,8 @@
 
 | Fecha | Proyecto | Versión | Lo más destacado |
 | --- | --- | --- | --- |
+| 11 oct 2026 | Open Control Edge | [3.0.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v3.0.0) | Cualquier borde y pantalla, todas tus cuentas solas, suscripción y arranque más seguro |
+| 11 oct 2026 | Open Control Edge | [2.3.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v2.3.0) | Conexión con Orb |
 | 9 oct 2026 | Orb.dev | [2.3.1](https://github.com/danielfinchdev/orb-dev/releases/tag/v2.3.1) | Proyectos por categoría, Android listo con adb e instalador |
 | 8 oct 2026 | Open Control Edge | [2.2.0](https://github.com/danielfinchdev/open-control-edge/releases/tag/v2.2.0) | Vistas IA / PC, FPS, modo juego y varias cuentas |
 | 5 oct 2026 | Orb.dev | [2.3.0](https://github.com/danielfinchdev/orb-dev/releases/tag/v2.3.0) | Agentes en directo, más agentes (ACP), delegación y Task Review |
